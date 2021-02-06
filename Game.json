@@ -1,0 +1,215 @@
+{
+    "passages": [
+      {
+        "text": "You stand at the base of a path, it forks off in many directions ahead of you, each path separating and twisting away from the others. You understand that this is the beginning of your journey, and your choices will impact you from here on out.\n\n[[Take the Path of Kindness ->Path of Kindness]]\n[[Take the Path of Indifference ->Path of Indifference]]\n[[Take the Path of Malice ->Path of Malice]]\n",
+        "links": [
+          {
+            "name": "Take the Path of Kindness ",
+            "link": "Path of Kindness",
+            "pid": "2"
+          },
+          {
+            "name": "Take the Path of Indifference ",
+            "link": "Path of Indifference",
+            "pid": "4"
+          },
+          {
+            "name": "Take the Path of Malice ",
+            "link": "Path of Malice",
+            "pid": "3"
+          }
+        ],
+        "name": "The Beginning",
+        "pid": "1",
+        "position": {
+          "x": "404",
+          "y": "169"
+        }
+      },
+      {
+        "text": "You begin on the Path of Kindness, it is well worn, and has been walked before, but the path carries life underfoot. Plants grow, small animals move about near you, and the wind brushes through the tall grass to your side. Many claim that this Path is the best choice, but everyone has their own path.\n\n[[Continue down the Path of Kindness-> Path of Kindness Fork]]\n[[Return to the Beginning->The Beginning]] ",
+        "links": [
+          {
+            "name": "Continue down the Path of Kindness",
+            "link": " Path of Kindness Fork",
+            "pid": "5"
+          },
+          {
+            "name": "Return to the Beginning",
+            "link": "The Beginning",
+            "pid": "1"
+          }
+        ],
+        "name": "Path of Kindness",
+        "pid": "2",
+        "position": {
+          "x": "281",
+          "y": "317"
+        }
+      },
+      {
+        "text": "You begin on the path of Malice. This path is well worn, clearly many have taken it and not looked back. The air is cold, and stale, but even here life has taken root. Ravens look down from barren trees, and creatures scuffle through the nearby grass. The Path of Malice is the easy path, with much triumph, but triumph never comes without sacrifice.\n\n[[Continue down the Path of Malice ->Path of Malice Fork]]\n[[Return to the Beginning->The Beginning]]\n",
+        "links": [
+          {
+            "name": "Continue down the Path of Malice ",
+            "link": "Path of Malice Fork",
+            "pid": "7"
+          },
+          {
+            "name": "Return to the Beginning",
+            "link": "The Beginning",
+            "pid": "1"
+          }
+        ],
+        "name": "Path of Malice",
+        "pid": "3",
+        "position": {
+          "x": "528",
+          "y": "314"
+        }
+      },
+      {
+        "text": "You begin on the Path of Indifference. This path has clearly had many come through, but patches of it seem to be untouched, while others seem to be aged, and weathered. The Path of Indifference is seen as neutral by many, but most fail to realize that even apathy is a choice.\n\n[[Continue down the Path of Indifference ->Path of Indifference Fork]]\n[[Return to the Beginning ->The Beginning]] ",
+        "links": [
+          {
+            "name": "Continue down the Path of Indifference ",
+            "link": "Path of Indifference Fork",
+            "pid": "6"
+          },
+          {
+            "name": "Return to the Beginning ",
+            "link": "The Beginning",
+            "pid": "1"
+          }
+        ],
+        "name": "Path of Indifference",
+        "pid": "4",
+        "position": {
+          "x": "407",
+          "y": "316"
+        }
+      },
+      {
+        "text": "You have followed the Path of Kindness, and in doing so come through many harsh passes and steep hills, you can no longer return to The Beginning by the same means. Your choice has been made. Before you is another fork in the road, this one only presenting two paths. One presents difficult terrain, and the other shows a much easier area. Each will have their reward. It is up to you to decide.\n\n[[Take the Difficult Path -> Kindness and Diligence]]\n[[Take the Easy Path -> Kindness and Sloth]]",
+        "links": [
+          {
+            "name": "Take the Difficult Path ",
+            "link": " Kindness and Diligence",
+            "pid": "8"
+          },
+          {
+            "name": "Take the Easy Path ",
+            "link": " Kindness and Sloth",
+            "pid": "9"
+          }
+        ],
+        "name": " Path of Kindness Fork",
+        "pid": "5",
+        "position": {
+          "x": "151",
+          "y": "463"
+        }
+      },
+      {
+        "text": "You have followed the Path of Indifference, and in doing so come through many harsh passes and steep hills, you can no longer return to The Beginning by the same means. Your choice has been made. Before you is another fork in the road, this one only presenting two paths. One presents difficult terrain, and the other shows a much easier area. Each will have their reward. It is up to you to decide.\n\n[[Take the Difficult Path -> Indifference and Diligence]]\n[[Take the Easy Path -> Indifference and Sloth]]",
+        "links": [
+          {
+            "name": "Take the Difficult Path ",
+            "link": " Indifference and Diligence",
+            "pid": "10"
+          },
+          {
+            "name": "Take the Easy Path ",
+            "link": " Indifference and Sloth",
+            "pid": "11"
+          }
+        ],
+        "name": "Path of Indifference Fork",
+        "pid": "6",
+        "position": {
+          "x": "407",
+          "y": "466"
+        }
+      },
+      {
+        "text": "You have followed the Path of Malice, and in doing so come through many harsh passes and steep hills, you can no longer return to The Beginning by the same means. Your choice has been made. Before you is another fork in the road, this one only presenting two paths. One presents difficult terrain, and the other shows a much easier area. Each will have their reward. It is up to you to decide.\n\n[[Take the Difficult Path -> Malice and Diligence]]\n[[Take the Easy Path -> Malice and Sloth]]",
+        "links": [
+          {
+            "name": "Take the Difficult Path ",
+            "link": " Malice and Diligence",
+            "pid": "12"
+          },
+          {
+            "name": "Take the Easy Path ",
+            "link": " Malice and Sloth",
+            "pid": "13"
+          }
+        ],
+        "name": "Path of Malice Fork",
+        "pid": "7",
+        "position": {
+          "x": "634",
+          "y": "462"
+        }
+      },
+      {
+        "text": "You have chosen the Path of Kindness and Diligence. Hard work can often go unrewarded, but kindness is a strong companion, and leads few astray. At the end of the path you can find peace. Your journey has ended, and you can rest.",
+        "name": " Kindness and Diligence",
+        "pid": "8",
+        "position": {
+          "x": "76",
+          "y": "613"
+        }
+      },
+      {
+        "text": "You have chosen the Path of Kindness and Sloth. Sloth is often a worthy foe of those who seek greatness, but with kindness as your ally, you can still succeed. Your reward is not as great as others, but it is earned through good deeds. The value of kindness and kindness alone is often forgotten, but it will rarely lead you astray. Your journey has ended, and you can rest.",
+        "name": " Kindness and Sloth",
+        "pid": "9",
+        "position": {
+          "x": "226",
+          "y": "612"
+        }
+      },
+      {
+        "text": "You have chose the Path of Indifference and Diligence. Two traits not often asscociated with each other, but when combined can lead to great prosperity. The world is built for those who are diligent, and despite your indifference, you have found success. Your journey has ended, and you can rest.",
+        "name": " Indifference and Diligence",
+        "pid": "10",
+        "position": {
+          "x": "332",
+          "y": "616"
+        }
+      },
+      {
+        "text": "You have chosen the Path of Indifference and Sloth. You have failed those around you by picking this path. With indifference, it has been assumed that you do not care about those around you, and with Sloth, you have proven that with your actions. Your journey ends here, but you will be rewarded with no rest.",
+        "name": " Indifference and Sloth",
+        "pid": "11",
+        "position": {
+          "x": "487",
+          "y": "619"
+        }
+      },
+      {
+        "text": "You have chosen the Path of Malice and Diligence. You decided to serve yourself above all others, and have profitted. Your rise to success has come at the cost of those who once knew you. The highest mountains hide away the loneliest souls. Your journey ends here, and you rest alone.",
+        "name": " Malice and Diligence",
+        "pid": "12",
+        "position": {
+          "x": "602",
+          "y": "612"
+        }
+      },
+      {
+        "text": "You have chosen the Path of Malice and Sloth. Your self serving nature was not strong enough to drive you to achieve, and you fell short. You are trapped in mediocrity at the end of this path, with no one to help you escape. You will get no rest here.",
+        "name": " Malice and Sloth",
+        "pid": "13",
+        "position": {
+          "x": "709",
+          "y": "612"
+        }
+      }
+    ],
+    "name": "The Road Ahead",
+    "startnode": "1",
+    "creator": "Twine",
+    "creator-version": "2.3.12",
+    "ifid": "85E30B3B-94CF-4009-A0C0-933D8785269B"
+  }
