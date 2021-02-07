@@ -9,8 +9,8 @@ def load(l):
     return j
 
 def find_passage(game_desc, pid):
-    for p  in game_desc["passages"]:
-        if p ["pid"] == pid:
+    for p in game_desc["passages"]:
+        if p["pid"] == pid:
             return p
     return {}
 

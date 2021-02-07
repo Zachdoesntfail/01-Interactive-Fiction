@@ -4,17 +4,17 @@
         "text": "You stand at the base of a path, it forks off in many directions ahead of you, each path separating and twisting away from the others. You understand that this is the beginning of your journey, and your choices will impact you from here on out.\n\n[[Take the Path of Kindness ->Path of Kindness]]\n[[Take the Path of Indifference ->Path of Indifference]]\n[[Take the Path of Malice ->Path of Malice]]\n",
         "links": [
           {
-            "name": "Take the Path of Kindness ",
+            "name": "Take the Path of Kindness",
             "link": "Path of Kindness",
             "pid": "2"
           },
           {
-            "name": "Take the Path of Indifference ",
+            "name": "Take the Path of Indifference",
             "link": "Path of Indifference",
             "pid": "4"
           },
           {
-            "name": "Take the Path of Malice ",
+            "name": "Take the Path of Malice",
             "link": "Path of Malice",
             "pid": "3"
           }
@@ -103,7 +103,7 @@
             "pid": "9"
           }
         ],
-        "name": " Path of Kindness Fork",
+        "name": "Path of Kindness Fork",
         "pid": "5",
         "position": {
           "x": "151",
